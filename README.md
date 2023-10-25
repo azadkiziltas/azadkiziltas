@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Azad Kızıltaş</h1>
 <h3 align="center">Student in Computer Engineering department</h3>
 
-- 🌱 I’m currently learning **Flutter, Angular, Javascript**
+- Android Developer ( Kotlin & Java )
 
 - 📫 How to reach me **diyarbis@gmail.com**
 
