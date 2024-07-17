@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Azad Kızıltaş</h1>
-<h3 align="center">Student in Computer Engineering department</h3>
+<h3 align="center">Mobile App Developer</h3>
 
 - Android Developer ( Kotlin & Java )
 
