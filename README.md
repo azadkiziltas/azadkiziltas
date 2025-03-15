@@ -24,7 +24,7 @@ I'm a Computer Engineer and a passionate Mobile Developer with a strong focus on
 
 ### 📢 How to Reach Me:
 
-- 📧 Email: [azad.kiziltas@outlook.com](mailto:azad.kiziltas@outlook.com)
+- 📧 Email: [azadkiziltas@outlook.com](mailto:azadkiziltas@outlook.com)
 - 🔗 LinkedIn: [Azad Kızıltaş](https://linkedin.com/in/azadkiziltas)
 
 
